@@ -1,5 +1,5 @@
 {
-  "name": "friendsoftypo3/extension-builder",
+  "name": "cron-eu/extension-builder",
   "type": "typo3-cms-extension",
   "description": "Tool to kickstart and maintain TYPO3 extensions",
   "keywords": [
@@ -23,7 +23,7 @@
   ],
   "require": {
     "php": "^7.0",
-    "typo3/cms-core": "~8.6"
+    "typo3/cms-core": "~8.7"
   },
   "autoload": {
     "psr-4": {
